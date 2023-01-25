@@ -18,7 +18,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
 
 html{
 	
-	background: url(../img/f5c714c3adf9b5b87d97f01478c9ea7a.gif) center no-repeat;
+	background: url(f5c714c3adf9b5b87d97f01478c9ea7a.gif) center no-repeat;
 	background-size: cover;
 }
 
@@ -27,7 +27,7 @@ body{
 }
  .block{
  	
- 	background: url(../img/bd4852b270d6b3c23ab3f8d79b0e8c9f.gif);
+ 	background: url(bd4852b270d6b3c23ab3f8d79b0e8c9f.gif);
   
      border: solid #fff;
      position: absolute;
